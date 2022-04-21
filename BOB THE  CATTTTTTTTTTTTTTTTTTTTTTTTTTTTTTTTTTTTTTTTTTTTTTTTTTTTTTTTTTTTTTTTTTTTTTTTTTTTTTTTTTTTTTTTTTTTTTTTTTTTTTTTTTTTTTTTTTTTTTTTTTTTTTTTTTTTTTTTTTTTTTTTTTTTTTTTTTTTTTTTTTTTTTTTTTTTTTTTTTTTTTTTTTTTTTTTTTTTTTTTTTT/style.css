@@ -1,0 +1,87 @@
+body{
+text-align: center;
+color: rgb(252, 251, 255);
+background:linear-gradient(aqua,blue,black)
+}
+#www{
+width: 500px ;
+height: 400px ;
+border-radius: 50%;
+border-style:solid;
+padding: 20px;
+color: red;
+}
+p{
+font-size: x-large;
+color: black;
+}
+#sec{
+
+margin-top: 50px;
+padding: 30px;
+z-index: 10;
+margin-top: 100px;
+}
+#s{
+
+padding: 30px;
+}
+.line{
+    width:150px ;
+    background-color:rgb(0, 0, 0) ;
+    height: 20px;
+    margin: auto;
+    border-radius: 0%;
+}
+#Timmy{
+color: red;
+font-family: 'Cedarville Cursive', cursive;
+font-size: xx-large;
+}
+
+#ul{
+  list-style: none;
+  width: 100%;
+  font-size: x-large;
+  z-index: 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999;
+  opacity:0.7;
+  position: fixed;
+  background:black ;
+  color: aquamarine ;
+  top: 0;
+  padding-left: 689px;
+  font-family: 'Cedarville Cursive', cursive;
+}
+#ul:hover {
+    opacity: 1;
+}
+li{
+float: left;
+padding: 10px;
+
+
+}
+
+#Writeing{
+color: aqua;
+
+}
+#arc{
+  color: aquamarine;
+  font-size: x-large;
+}
+a{
+  text-decoration: none;
+  color:aquamarine ;
+}
+
+h1{
+  font-size: 40px;
+
+}
+ #Ihaveranoutofideasandthisisthenameforthesection iframe{
+   width: 90%;
+   
+   
+ }
+
